@@ -9,3 +9,96 @@
 <p align="center">
   <img src="./simc-pipeline.png">
 </p>
+
+
+## Execution
+
+
+
+## Syntax
+
+### Arithmetic operators
+
+  1) Addition operator (+):-
+
+  ```console
+  1 + 2
+  ```
+  <b>Result => 1 + 2</b>
+
+  2) Subtraction operator (-):-
+
+  ```console
+  1 - 2
+  ```
+  <b>Result => 1 - 2</b>
+
+  3) Multiplication operator (*):-
+
+  ```console
+  1 * 2
+  ```
+  <b>Result => 1 * 2</b>
+
+  4) Division operator (/):-
+
+  ```console
+  1 / 2
+  ```
+  <b>Result => 1 / 2</b>
+
+  5) Modulo operator (%):-
+
+  ```console
+  1 % 2
+  ```
+  <b>Result => 1 % 2</b>
+
+  ### Relational operator
+
+  1) Less than (<):-
+
+  ```console
+  1 < 2
+  ```
+  <b>Result => 1 < 2</b>
+
+  2) Greater than (>):-
+
+  ```console
+  1 > 2
+  ```
+  <b>Result => 1 > 2</b>
+
+  3) Equal to (==):-
+  ```console
+  1 == 2
+  ```
+  <b>Result => 1 == 2</b>
+
+  4) Less than equal to (<=):-
+  ```console
+  1 <= 2
+  ```
+  <b>Result => 1 <= 2</b>
+
+  5) Greater than equal to (>=):-
+  ```console
+  1 >= 2
+  ```
+  <b>Result => 1 >= 2</b>
+
+  6) Not equal to (!=):-
+  ```console
+  1 != 2
+  ```
+  <b>Result => 1 != 2</b>
+
+  ### Assignment operator
+
+  ```console
+  a = 1
+  ```
+  <b>Result => a = 2</b>
+
+  
