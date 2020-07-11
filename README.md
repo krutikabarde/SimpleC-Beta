@@ -17,6 +17,10 @@
 
 ## Syntax
 
+<details>
+
+  <summary><b>Operators</b></summary>
+
 ### Arithmetic operators
 
   1) Addition operator (+):-
@@ -101,4 +105,70 @@
   ```
   <b>Result => a = 2</b>
 
-  
+</details>
+
+<hr />
+
+<details>
+
+  <summary><b>Variables</b></summary>
+
+  ### Declaring a variable
+
+  ```console
+  var a
+  ```
+  <b>Note: Here a is name of variable.</b>
+  <b>Result => var a</b>
+
+  ### Initializing a variable
+
+  ```console
+  var a = 2
+  ```
+  <b>Note: Here a is name of variable and it gets a value of 2.</b>
+  <b>Result => int a = 2</b>
+
+  ### Assigning value to a variable
+
+  ```console
+  a = 3
+  ```
+  <b>Note: Here a is name of variable, we also assume here that a is declared earler in the code.</b>
+  <b>Result => a = 3</b>
+
+</details>
+
+<hr />
+
+<details>
+
+  <summary><b>Strings</b></summary>
+
+  ### Initializing a string variable
+
+  ```console
+  var a = "Hello"
+  ```
+  <b>Note: Strings should be enclosed within double quotes (" ").</b>
+  <b>Result => char* a = "Hello"</b>
+
+</details>
+
+<hr />
+
+<details>
+
+  <summary><b>Print statement</b></summary>
+
+  ### Syntax of print statement
+
+  ```console
+  print("Hello World")
+  ```
+
+  <b>Result => printf("Hello World")</b>
+
+</details>
+
+<hr />
