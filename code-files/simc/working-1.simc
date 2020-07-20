@@ -1,4 +1,3 @@
 MAIN
-  var hello = 10
-  print("The value of variable = {a}")
+  print("Hello world")
 END_MAIN
