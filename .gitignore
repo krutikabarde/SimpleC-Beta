@@ -1,5 +1,6 @@
 __pycache__
 .DS_Store
-*.pyc
-a.out
-a.exe
+.ipynb_checkpoints
+build/*
+dist/*
+*.spec

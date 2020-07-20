@@ -1,0 +1,4 @@
+MAIN
+  var hello = 10
+  print("The value of variable = {a}")
+END_MAIN
